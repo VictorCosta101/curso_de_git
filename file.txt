@@ -1,1 +1,9 @@
 Esta é a introdução ao curso de git
+
+* como iniciar um repositorio 
+	Utilizando o commando git init
+
+* Como adicionar um arquivo para ser reatreado pelo git 
+	Utilizando o comando git add <nome do arquivo> || . (para todos)
+
+
